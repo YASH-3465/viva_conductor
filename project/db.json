@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "type": "mentor",
+      "name": "Admin Mentor",
+      "email": "mentor@example.com",
+      "password": "mentorpass"
+    },
+    {
+      "id": 2,
+      "type": "student",
+      "name": "Test Student",
+      "email": "student@example.com",
+      "password": "studentpass"
+    }
+  ],
+  "students": [],
+  "sessions": [],
+  "results": []
+}
